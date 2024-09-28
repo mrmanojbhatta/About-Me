@@ -1,7 +1,7 @@
 # Manoj Bhatta - OSINT Expert from Nepal
 
 ## About Me
-Hello! I am Manoj Bhatta from Ghodaghodi, Kailali, Nepal. Currently, I am currently studying Bachelor's in Bachelor of Information Communication Technology Education (BICTE) at Ghodaghodi Multiple Campus. Although my formal education doesn't offer courses in OSINT (Open-Source Intelligence), I have self-taught myself by exploring resources on the darknet, Telegram, and other platforms, gaining advanced skills in OSINT.
+Hello! I am Manoj Bhatta from Ghodaghodi, Kailali, Nepal. Currently, I am currently studying Bachelor's in Bachelor of Information Communication Technology Education (BICTE) at Ghodaghodi Multiple Campus (GMC). Although my formal education doesn't offer courses in OSINT (Open-Source Intelligence), I have self-taught myself by exploring resources on the darknet, Telegram, and other platforms, gaining advanced skills in OSINT.
 
 I have successfully exposed hundreds of cybercriminals such as carders, scammers, blackmailers, and many more. Despite the lack of institutional support, I have built a strong network of connections with cyber police, OSINT experts, and various legal authorities in Nepal and beyond.
 
