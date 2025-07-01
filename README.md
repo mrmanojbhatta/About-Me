@@ -10,7 +10,7 @@ I have successfully exposed hundreds of cybercriminals such as carders, scammers
 - During that lost year, I dedicated my time to developing a powerful OSINT network, interacting with cybersecurity professionals, law enforcement, and legal authorities. Despite facing financial struggles from being part of a middle-class family, I worked tirelessly to enhance my skills.
 
 ## OSINT Expertise
-I am Nepal's first OSINT expert, working in a field that is not yet well-known in the country. Though I do not hold any official certifications (as I believe in skills over certificates), I have access to thousands of OSINT tools and possess a strong mindset built on experience and self-learning.
+I am working in a field that is not yet well-known in the country. Though I do not hold any official certifications (as I believe in skills over certificates), I have access to thousands of OSINT tools and possess a strong mindset built on experience and self-learning.
 
 ### What I Do:
 - Expose Cybercriminals: I have identified and exposed hundreds of cybercriminals, from carders to blackmailers, contributing to cybersecurity and law enforcement.
