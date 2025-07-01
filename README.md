@@ -23,7 +23,7 @@ I am working in a field that is not yet well-known in the country. Though I do n
 - Thousands of OSINT Tools: I have access to a vast collection of OSINT tools for email tracing, social media intelligence, domain lookups, and much more.
 
 ## Vision & Goals
-As Nepal's first OSINT expert, my mission is to raise awareness about OSINT in Nepal, provide my expertise to law enforcement, and build a future where cybersecurity is prioritized. I aim to empower the next generation of Nepali professionals in the field of open-source intelligence, creating an OSINT ecosystem in the country.
+My mission is to raise awareness about OSINT in Nepal, provide my expertise to law enforcement, and build a future where cybersecurity is prioritized. I aim to empower the next generation of Nepali professionals in the field of open-source intelligence, creating an OSINT ecosystem in the country.
 
 ## Contact
 - Website: [bhattamanoj.com.np](https://bhattamanoj.com.np)
