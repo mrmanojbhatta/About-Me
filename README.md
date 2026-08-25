@@ -1,37 +1,111 @@
-# Manoj Bhatta  Open Source Intelligence 
+<div align="center"><a href="https://manoj-bhatta.com.np">
+  <img src="https://manoj-bhatta.com.np/img/home/hero.jpg" width="180" height="180" alt="Manoj Bhatta" style="border-radius:50%;" />
+</a><h1>MANOJ BHATTA</h1><h3>MERN Stack Web Developer • Full Stack Developer • Security Enthusiast</h3><p>
+  <a href="https://manoj-bhatta.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-manoj--bhatta.com.np-111111?style=for-the-badge&logo=googlechrome&logoColor=00ff88" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/mrmanojbhatta">
+    <img src="https://img.shields.io/badge/GitHub-mrmanojbhatta-111111?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub"/>
+  </a>
+  <a href="https://medium.com/mrmanojbhatta">
+    <img src="https://img.shields.io/badge/Medium-mrmanojbhatta-111111?style=for-the-badge&logo=medium&logoColor=00ff88" alt="Medium"/>
+  </a>
+</p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=FULL+STACK+WEB+DEVELOPER;MERN+STACK+%7C+WORDPRESS+%7C+PHP+%7C+MYSQL;BUILDING+WEB+APPLICATIONS+AND+CLIENT+PROJECTS;CYBERSECURITY+%7C+OSINT+%7C+WEB+SECURITY;LEARN+%E2%80%A2+BUILD+%E2%80%A2+RESEARCH+%E2%80%A2+IMPROVE" alt="Typing animation"/></div><br><table width="100%">
+<tr><td width="55%" valign="top"><h2>⚡ PROFILE</h2><p>
+I'm a self-taught <b>Full Stack Web Developer</b> from Kailali, Nepal, focused on building practical websites and web applications for personal and client projects.
+</p><p>
+My main development focus is <b>MERN Stack, PHP, MySQL, JavaScript, WordPress and WooCommerce</b>.
+</p><p>
+Alongside development, I'm building my knowledge in <b>cybersecurity, OSINT, web security, Linux and ethical hacking</b>.
+</p></td><td width="45%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,php,mysql,wordpress,linux,git,github&perline=7" alt="Tech stack"/></td></tr>
+</table><br><div align="center"><img src="https://img.shields.io/badge/🇳🇵_NEPAL-000000?style=for-the-badge&labelColor=06110d&color=00ff88" alt="Nepal"/>
+<img src="https://img.shields.io/badge/BICTE-TU-000000?style=for-the-badge&labelColor=06110d&color=00ff88" alt="BICTE"/>
+<img src="https://img.shields.io/badge/SELF--TAUGHT-DEVELOPER-000000?style=for-the-badge&labelColor=06110d&color=00ff88" alt="Self taught"/>
+<img src="https://img.shields.io/badge/CLIENT-PROJECTS-000000?style=for-the-badge&labelColor=06110d&color=00ff88" alt="Client projects"/></div><br><h2>🧠 DEVELOPMENT STACK</h2><table width="100%">
+<tr><td width="25%" align="center"><h3>Frontend</h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" alt="React"/></td><td width="25%" align="center"><h3>Backend</h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" alt="Express"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" alt="PHP"/></td><td width="25%" align="center"><h3>Database</h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/></td><td width="25%" align="center"><h3>CMS & Tools</h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="42" alt="WordPress"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" alt="Linux"/></td></tr>
+</table><br><h2>🚀 WHAT I BUILD</h2><table width="100%">
+<tr><td width="33%" align="center"><h3>🌐 Full Stack</h3><p>MERN applications, PHP/MySQL websites, APIs and complete web solutions.</p></td><td width="33%" align="center"><h3>🧩 WordPress</h3><p>Business websites, Elementor development, WooCommerce and custom features.</p></td><td width="33%" align="center"><h3>🎨 UI / UX</h3><p>Responsive interfaces, website layouts and practical user-focused designs.</p></td></tr>
+</table><br><h2>🛡️ SECURITY & OSINT</h2><div align="center"><img src="https://img.shields.io/badge/WEB_SECURITY-000000?style=for-the-badge&logo=owasp&logoColor=00ff88" alt="Web Security"/>
+<img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=00ff88" alt="OSINT"/>
+<img src="https://img.shields.io/badge/ETHICAL_HACKING-000000?style=for-the-badge&logoColor=00ff88" alt="Ethical Hacking"/>
+<img src="https://img.shields.io/badge/RECONNAISSANCE-000000?style=for-the-badge&logoColor=00ff88" alt="Reconnaissance"/>
+<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=00ff88" alt="Linux"/></div><p align="center">
+My cybersecurity journey focuses on learning <b>web security, ethical hacking, OSINT, reconnaissance and security research</b>.
+</p><br><h2>💼 EXPERIENCE</h2><table width="100%">
+<tr><td width="20%" align="center">
+<h3>01</h3>
+</td><td>
+<b>Independent Web Developer</b><br>
+Self-Taught • Personal & Client Projects
+<br><br>
+WordPress development • Theme customization • HTML/CSS/Bootstrap • MERN development • Website features • Content integration • Client technical support
+</td></tr>
+</table><br><h2>🔥 FEATURED PROJECTS</h2><table width="100%">
+<tr><td width="50%" valign="top"><h3>🌐 Personal Portfolio Website</h3><p>
+A personal portfolio built using HTML, CSS, Bootstrap, JavaScript, PHP and MySQL.
+</p><img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00ff88"/></td><td width="50%" valign="top"><h3>📰 Tech Blog Website</h3><p>
+Technology-focused WordPress website covering content, courses, projects and SEO.
+</p><img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Elementor-000000?style=flat-square&logo=elementor&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/SEO-000000?style=flat-square&logoColor=00ff88"/></td></tr><tr><td width="50%" valign="top"><h3>🏗️ Saprem Suppliers</h3><p>
+E-commerce website developed with WordPress and WooCommerce for a building-materials business.
+</p><img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/WooCommerce-000000?style=flat-square&logo=woocommerce&logoColor=00ff88"/></td><td width="50%" valign="top"><h3>⚖️ Kaanooni Sahayatri</h3><p>
+Professional WordPress website developed for a Nepal-based law firm.
+</p><img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Business_Website-000000?style=flat-square&logoColor=00ff88"/></td></tr><tr><td width="50%" valign="top"><h3>❤️ Love Calculator</h3><p>
+A fun name-based compatibility calculator created as a web project.
+</p><img src="https://img.shields.io/badge/Web_Project-000000?style=flat-square&logoColor=00ff88"/></td><td width="50%" valign="top"><h3>🧪 More in Progress</h3><p>
+Continuously experimenting with web development, cybersecurity, OSINT and programming projects.
+</p></td></tr>
+</table><br><h2>🎓 EDUCATION & CERTIFICATIONS</h2><table width="100%">
+<tr><td align="center">🎓 <b>BICTE</b><br>
+Tribhuvan University<br>
+Ghodaghodi Multiple Campus
 
-## About Me
-Hello! I am Manoj Bhatta from Ghodaghodi, Kailali, Nepal. Currently, I am currently studying Bachelor's in Bachelor of Information Communication Technology Education (BICTE) at Ghodaghodi Multiple Campus (GMC). Although my formal education doesn't offer courses in OSINT (Open-Source Intelligence), I have self-taught myself by exploring resources on the darknet, Telegram, and other platforms, gaining advanced skills in OSINT.
+</td><td align="center">📜 <b>Delta Full Stack Web Development</b><br>
+MERN Stack<br>
+Apna College • 2025
 
-I have successfully exposed hundreds of cybercriminals such as carders, scammers, blackmailers, and many more. Despite the lack of institutional support, I have built a strong network of connections with cyber police, OSINT experts, and various legal authorities in Nepal and beyond.
+</td><td align="center">📜 <b>WordPress Web Development</b><br>
+Udemy • 2023
 
-## Journey & Challenges
-- I come from a Sanskrit background, but I transitioned to science in the 11th grade, choosing Physics, Chemistry, and Mathematics. However, I faced difficulties and failed in Physics and Mathematics in 12th, resulting in a one-year academic delay.
-- During that lost year, I dedicated my time to developing a powerful OSINT network, interacting with cybersecurity professionals, law enforcement, and legal authorities. Despite facing financial struggles from being part of a middle-class family, I worked tirelessly to enhance my skills.
+</td><td align="center">📜 <b>Basic Computer Course</b><br>
+BCT Sukhad • 2021
 
-## OSINT Expertise
-I am working in a field that is not yet well-known in the country. Though I do not hold any official certifications (as I believe in skills over certificates), I have access to thousands of OSINT tools and possess a strong mindset built on experience and self-learning.
+</td></tr>
+</table><br><h2>🧰 ADDITIONAL SKILLS</h2><div align="center"><img src="https://img.shields.io/badge/SEO-000000?style=for-the-badge&logo=google&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/MS_Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Leadership-000000?style=for-the-badge&logoColor=00ff88"/></div><br><h2>📡 CONNECT</h2><div align="center"><a href="https://manoj-bhatta.com.np">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff88"/>
+</a><a href="https://github.com/mrmanojbhatta">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff88"/>
+</a><a href="https://medium.com/mrmanojbhatta">
+<img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=00ff88"/>
+</a></div><br><div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=BUILDING+FOR+THE+WEB.;LEARNING+SECURITY.;RESEARCHING+SYSTEMS.;IMPROVING+EVERY+DAY.;%24+keep+building_" alt="Terminal animation"/><br><br>
 
-### What I Do:
-- Expose Cybercriminals: I have identified and exposed hundreds of cybercriminals, from carders to blackmailers, contributing to cybersecurity and law enforcement.
-- Cybercrime Investigations: I assist legal authorities and cybersecurity teams in tracking and exposing online threats and frauds.
-- Networking: Over time, I’ve built an extensive network with cyber police, OSINT professionals, and other legal authorities.
+<code>MANOJ BHATTA • FULL STACK WEB DEVELOPER • NEPAL 🇳🇵</code>
 
-## Tools & Skills
-- Darknet Research: Learned advanced techniques through darknet forums and channels.
-- Telegram OSINT: Active in OSINT communities on Telegram for real-time updates and tools.
-- Thousands of OSINT Tools: I have access to a vast collection of OSINT tools for email tracing, social media intelligence, domain lookups, and much more.
+<br><br>
 
-## Vision & Goals
-My mission is to raise awareness about OSINT in Nepal, provide my expertise to law enforcement, and build a future where cybersecurity is prioritized. I aim to empower the next generation of Nepali professionals in the field of open-source intelligence, creating an OSINT ecosystem in the country.
-
-## Contact
-- Website: [bhattamanoj.com.np](https://bhattamanoj.com.np)
-- Email: [mrmanojbhatta@gmail.com](mailto:mrmanojbhatta@gmail.com)
-- Facebook: [facebook.com/mrmanojbhatta](https://facebook.com/mrmanojbhatta)
-- Github: [github.com/mrmanojbhatta](https://github.com/mrmanojbhatta)
-- Medium: [medium.com/mrmanojbhatta](mrmanojbhatta.medium.com)
-- reddit: [reddit.com/user/mrmanojbhatta/](https://www.reddit.com/user/mrmanojbhatta/)
-- Location: Ghodaghodi, Kailali, Nepal
-
-Feel free to reach out if you are interested in collaborations, learning more about OSINT, or seeking assistance with cybersecurity issues.
+<a href="https://manoj-bhatta.com.np">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff88,50:06110d,100:000000" width="100%" alt="Footer"/>
+</a></div>
